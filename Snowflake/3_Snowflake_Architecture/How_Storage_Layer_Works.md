@@ -32,7 +32,6 @@ Views (normal & materialized)
 Schemas (folders)
 
 
-
 🧒 Example:
 👉 School bag (database)
 👉 Books (tables)
@@ -166,7 +165,9 @@ Snowflake converts & compresses
      ↓
 Encrypted & stored safely
      ↓
-Access only via SQL ```
+Access only via SQL
+
+```
 
 
 ---
