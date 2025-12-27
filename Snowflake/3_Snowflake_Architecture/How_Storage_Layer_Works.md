@@ -155,7 +155,7 @@ Recover deleted data
 
 
 ---
-
+```
 🔗 Storage Layer – Simple Flow
 
 User loads data
@@ -166,7 +166,7 @@ Snowflake converts & compresses
      ↓
 Encrypted & stored safely
      ↓
-Access only via SQL
+Access only via SQL ```
 
 
 ---
