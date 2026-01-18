@@ -1,5 +1,5 @@
 # Legacy Web UI – Feature Tree
-
+```
 Legacy Web UI
 ├── Top Menu (Right)
 │   ├── User Profile Menu
@@ -101,3 +101,4 @@ Legacy Web UI
     ├── Data Preview
     └── History
 
+```
